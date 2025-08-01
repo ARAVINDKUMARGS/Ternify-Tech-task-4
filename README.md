@@ -1,126 +1,83 @@
-# Ternify-Tech-task-4
-Web development (frontend intern)
+📚 Task 4 – E-Learning Website
 
-📝 Ternify Tech Internship
+📌 Project Description
 
-💻 Task 4: Landing Page Website
-
-
----
-
-👨‍💻 Submitted By:
-
-Aravind Kumar G.S
-Web Development Intern @ Ternify Tech
+This project is a responsive E-Learning Website created as part of the internship with Ternify Tech. The site provides a modern layout for an online education platform, showcasing courses, instructors, and features that help users learn online efficiently.
 
 
 ---
 
-📁 Project Name:
+✨ Features
 
-Modern Landing Page Website
+Homepage with hero section
 
+Course highlights with images and titles
 
----
+About Us and Contact Us sections
 
-🛠️ Tech Stack:
+Responsive design for mobile and desktop
 
-HTML5
-
-CSS3
+Clean UI with easy navigation
 
 
 
 ---
 
-🎯 Objective:
+🛠️ Tech Stack
 
-Create a professional, responsive landing page using only HTML and CSS. This page showcases a product/service and includes essential UI components.
+HTML – Structure and content
 
+CSS – Styling, layout, responsiveness
 
----
-
-📂 File Structure:
-
-Filename	Purpose
-
-index.html	Page layout and content structure
-style.css	Styling for the page layout and elements
-assets/	Optional - for images/icons
+(Optional) JavaScript – For interactive elements (if used)
 
 
 
 ---
 
-🧩 Features Included:
+🚀 How to Use
 
-Hero section with heading, description, and CTA button
-
-Navigation bar (sticky or fixed)
-
-About / Services section
-
-Contact section or footer
-
-Fully responsive design using Flexbox and Media Queries
-
-Clean and aesthetic UI design
+1. Clone or download the repository
 
 
-
----
-
-📱 Steps to Run on Mobile:
-
-1. Use any mobile code editor:
-
-Acode (Recommended)
-
-Spck Editor
+2. Open index.html in your browser
 
 
-
-2. Create the following files:
-
-index.html
-
-style.css
-
-
-
-3. Paste the respective code into each file.
-
-
-4. Open index.html using the mobile preview or browser to view the landing page.
+3. Explore the layout and sections of the E-Learning platform
 
 
 
 
 ---
 
-💡 Suggestions for Enhancement:
+📁 File Structure
 
-Add image slider or hero background video
-
-Integrate scroll animations (AOS library)
-
-Use Google Fonts for better typography
-
-Add hover effects to buttons and links
-
+e-learning-website/
+│
+├── index.html          # Main webpage
+├── style.css           # Website styling
+└── assets/
+    ├── images/         # Illustrations and icons
 
 
 ---
 
-✅ Output Preview Includes:
+📸 Screenshots
 
-Website with branding (logo or name)
-
-Smooth layout of sections
-
-Responsive look for both desktop and mobile
-
-Actionable Call-to-Action (CTA) buttons
+Add screenshots of the website interface (home, course section, etc.) if available
 
 
+---
 
+👨‍💻 Author
+
+Aravind Kumar
+Intern at Ternify Tech
+
+
+---
+
+📌 Status
+
+✅ Task Completed
+🔄 Optional future improvements: Login/Register Page, Course details page, Admin dashboard
